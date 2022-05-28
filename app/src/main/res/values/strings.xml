@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">asanas</string>
+    <string name="bhuj">BHUJANGASANA</string>
+    <string name="nauka">NAUKASANA</string>
+    <string name="dhanur">DHANURASANA</string>
+    <string name="sirs">SIRSASANA</string>
+</resources>
